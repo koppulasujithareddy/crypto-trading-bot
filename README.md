@@ -7,7 +7,7 @@ A Python-based Crypto Trading Bot that fetches live cryptocurrency prices using 
 - 🔹 Fetches live cryptocurrency prices using the CoinGecko API
 - 🔹 Supports BUY and SELL orders 
 - 🔹 Supports MARKET and LIMIT order types 
-- 🔹 Input validation for user-friendly interaction
+- 🔹 Input validation for user-friendly interaction 
 - 🔹 Error handling for invalid inputs and API failures
 - 🔹 Saves order history in `orders.json`
 - 🔹 Logs all activities in `logs/trading.log`
